@@ -48,4 +48,5 @@ Aplicacion Api Rest Sobre el Tour de Francias
 - Uso de Swagger
 
 ## Swagger
-![image](https://user-images.githubusercontent.com/91640921/179618863-184685f3-ac70-43d9-8f93-c590d51d4ce3.png)
+![image](https://user-images.githubusercontent.com/91640921/179619046-41c3dba7-1b0c-4722-ba48-56a6b6ef075e.png)
+
